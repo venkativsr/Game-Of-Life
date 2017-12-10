@@ -1,0 +1,11 @@
+Git Hub Commands:
+git init .
+git remote add origin url
+git pull
+git status
+Make some changes to Project
+git status
+git add filename
+git commit -m "message"
+git push remote origin
+git staus
