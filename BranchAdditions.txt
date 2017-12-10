@@ -1,0 +1,7 @@
+Welcome to Hello World thru C
+
+#include<stdio.h>
+main()
+{
+	printf("Welcome to GIT World");
+}
